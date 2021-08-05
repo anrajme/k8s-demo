@@ -1,5 +1,9 @@
-# Flask hello world application deployment on Kubernetes!
+# Python flask hello-world application deployment on Kubernetes!
 This is a sample Python flask hello world application to demonstrate the application containerisation and orchestration workflow.
+
+![image](https://user-images.githubusercontent.com/1909476/128383766-f788a85e-8fac-4d65-b27a-b87016ab4ad9.png)
+
+
 
 
 ### Setup the workspace
